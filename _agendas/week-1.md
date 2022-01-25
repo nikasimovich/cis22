@@ -7,7 +7,7 @@ summary:          Introductions, Cyberspace Origins, Cross-Platform Storytelling
 
 ### Tuesday, Studio
 
-- Meet in our [official online classroom](https://newschool.zoom.us/my/nikafisher) afterwards
+- Meet in our [official online classroom](https://newschool.zoom.us/my/nikafisher)
 - Go over [syllabus](https://docs.google.com/document/d/17VGlywfjM_YJGT5QnM5yqkK9tWmDQyQZ0JtRJVrVqO0/edit?usp=sharing)
 - [Complete activity](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Tuesday-0125--Baos7UH8ZX7ycMa015vZvr4BAQ-27uvegqbM0HpwOhWHvqTW) on today&rsquo;s notes
 - Student introduction slideshows
