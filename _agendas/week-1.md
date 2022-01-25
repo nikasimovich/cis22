@@ -8,14 +8,14 @@ summary:          Introductions, Cyberspace Origins, Cross-Platform Storytelling
 ### Tuesday, Studio
 
 - Meet in our [official online classroom](https://newschool.zoom.us/my/nikafisher) afterwards
-- Go over [syllabus](https://docs.google.com/document/d/17OuPptLAPasnHGMydjDuOaV6ugb1K3cYEBHPPsI0GK8/edit?usp=sharing)
+- Go over [syllabus](https://docs.google.com/document/d/17VGlywfjM_YJGT5QnM5yqkK9tWmDQyQZ0JtRJVrVqO0/edit?usp=sharing)
+- [Complete activity](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Tuesday-0125--Baos7UH8ZX7ycMa015vZvr4BAQ-27uvegqbM0HpwOhWHvqTW) on today&rsquo;s notes
 - Student introduction slideshows
-- [Complete activity](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Tuesday-0119--BDi6c6iZMQpRJ8BpIdXKUJNBAQ-Jqk6sR8oq2JdKcotqrwGN) on today&rsquo;s notes
-- Talk about Cyberspace Origins
-
+- Watch lectures
 
 ### Homework
 - Turn in your introduction slideshow on canvas
 - Reading: [A Vernacular Web](http://art.teleportacia.org/observation/vernacular/)
+- Watch the two lectures: [Cyberspace Origins](https://vimeo.com/501962625) and [Internet Today](https://vimeo.com/502002510) on the [vimeo](https://vimeo.com/showcase/8025633) and prepare to talk about them. PW is "interaction"
 - Reading leaders: Olivia and Veronica
-- Everyone else writes a discussion comment or question [here](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BaiIPkMqvKsKr~MH8d2IVCvzAQ-xcAaUIV4Syfp3zmAR7IMi). Reading leaders, please prepare information on Olia Lialina and highlight examples of her work, in addition to contextualizing and summarizing the reading. Prepare comments and questions around this.
+- Everyone else writes a discussion comment or question [here](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BaiIPkMqvKsKr~MH8d2IVCvzAQ-xcAaUIV4Syfp3zmAR7IMi). Reading leaders, please prepare information on Olia Lialina and highlight examples of her work, in addition to contextualizing and summarizing the reading. Prepare comments and questions around this. Please also connect the reading to the two lectures.
