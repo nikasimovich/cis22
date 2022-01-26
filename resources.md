@@ -8,13 +8,14 @@ title: Resources
 
 - [GitHub](https://github.com/)
 - [GitHub Pages](https://pages.github.com/)
-- [Sublime Text](https://www.sublimetext.com/)
+- [GitHub Desktop](https://desktop.github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 - [Chrome DevTools](https://developer.chrome.com/devtools)
 - [Stack Overflow](http://stackoverflow.com/)
 - [CodePen](http://codepen.io/)
 - [Git Basics](http://rogerdudler.github.io/git-guide/)
-- [Hacker News](https://news.ycombinator.com/)
-- [Lynda](https://www.lynda.com/)
+
 
 ### Typography
 
