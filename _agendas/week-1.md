@@ -12,7 +12,7 @@ summary:          Introductions, Cyberspace Origins, Cross-Platform Storytelling
 
 ### Homework
 - Finish the questionnaire.
-- Set up your GitHub account and GitHub desktop app by following this [demo video](https://vimeo.com/showcase/8025633/video/502734712).
+- Set up your GitHub account and GitHub desktop app by following this [demo video](https://vimeo.com/showcase/8025633/video/502734712). Note that this demo uses Sublime, but I personally prefer to use [VS Code](https://code.visualstudio.com).
 - Create a basic home page for your GitHub account, making sure that your GitHub Pages site is set up properly. If I visit your site, I should be able to see it at a domain that looks similar to this: [http://seancaat.github.io](http://seancaat.github.io) (mine redirects to my personal site 🙂).
 
 ---
