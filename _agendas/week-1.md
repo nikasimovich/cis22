@@ -5,6 +5,17 @@ date_range:       1/25 –1/28
 summary:          Introductions, Cyberspace Origins, Cross-Platform Storytelling, Glitch
 ---
 
+### Friday, Lab
+- [Zoom link](https://NewSchool.zoom.us/my/catangui)
+- Introductions
+- Talk about [hw0: Questionnaire](https://www.dropbox.com/scl/fi/quv2xtqqfvwbnkgcz930c/Core-Interaction_-Lab-—-hw0.paper?dl=0&rlkey=8qh3d77o2er4f54f8keb74axd)
+
+### Homework
+- Finish the questionnaire.
+- Set up your GitHub account and GitHub desktop app by following this [demo video](https://vimeo.com/showcase/8025633/video/502734712).
+- Create a basic home page for your GitHub account, making sure that your GitHub Pages site is set up properly. If I visit your site, I should be able to see it at a domain that looks similar to this: [http://seancaat.github.io](http://seancaat.github.io) (mine redirects to my personal site 🙂).
+
+---
 
 ### Thursday, Studio
 
