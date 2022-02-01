@@ -2,7 +2,7 @@
 title:            Week 2
 start_date:       2021-01-19 00:00:00 -0500
 date_range:       1/31 – 2/04
-summary:          Introductions, Cyberspace Origins, Cross-Platform Storytelling, Glitch
+summary:          Ideation, Figma workflow, project development
 ---
 
 ### Tuesday, Studio
