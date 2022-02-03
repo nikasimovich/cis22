@@ -5,6 +5,21 @@ date_range:       1/31 – 2/04
 summary:          Ideation, Figma workflow, project development
 ---
 
+### Thursday, Studio
+
+- [Zoom link](https://newschool.zoom.us/my/nikafisher)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/S22-CI2-Week-2-Class-2-Cross-platform-Storytelling--BbOKIKhhpEE9WETTuzcqaucpAQ-8ZkST5dvuarPqMsISMA00)
+- Anouncements
+- Project Check In
+- Actiivty: Screen Time
+
+
+### Homework
+- Cross-Platform storytelling is due on Tuesday. It should be online and complete at the start of class.
+- As long as you show up to the critique, actively participate, and present in progress work, you&rsquo;re allowed to resubmit any project by the end of the semester.
+
+---
+
 ### Tuesday, Studio
 
 - Meet in our [official online classroom](https://newschool.zoom.us/my/nikafisher)
