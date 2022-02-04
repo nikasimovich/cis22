@@ -5,6 +5,18 @@ date_range:       1/31 – 2/04
 summary:          Ideation, Figma workflow, project development
 ---
 
+### Friday, Lab
+
+- [Zoom link](https://NewSchool.zoom.us/my/catangui)
+- Check in
+- Code-along: HTML/CSS
+- [In-class exercise](https://www.dropbox.com/scl/fi/lwkuvarhzcj50mjk72fyi/Week-2_-In-class-exercise-Sharing-Commonalities.paper?dl=0&rlkey=bfq9fbm1zx46h0uvvkb0g4nis): Sharing Commonalities
+
+### Homework
+
+- [hw1](https://www.dropbox.com/scl/fi/qermsddpnp714lrjavuvj/hw1-–-Webring.paper?dl=0&rlkey=3ktlz48hyfxijhpflif8su57l): add a webring to your GitHub homepage
+- Add a link to your Sharing Commonalities group assignment to your GitHub homepage.
+
 ### Thursday, Studio
 
 - [Zoom link](https://newschool.zoom.us/my/nikafisher)
