@@ -7,6 +7,16 @@ summary:          Cross-platform storytelling critique, Introducing Stories as N
 ---
 
 
+### Friday, Lab
+- Check out the [student list](https://cis22.labud.nyc/students/)
+- Open discussion / questions
+- Code along! Recreate this [event poster](https://d2w9rnfcy7mm78.cloudfront.net/2215491/original_c8f49c9e1f06553212515c9c8f1551df.jpg?1527098976?bc=1) starting from [here](https://github.com/seancaat/lecture-3/blob/main/index.html)
+
+### Homework
+- [hw2](https://www.dropbox.com/scl/fi/7cps8rhnlvxkj3nflbpsm/hw2.paper?dl=0&rlkey=9j6itokb5v9pro2apdaxrsi94) 
+- Hone your flexbox skills by playing [Flexbox Froggy](https://flexboxfroggy.com).
+
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-S22-Wrapping-up-Project-1-Critique-Introducing-Stories-as-Networks--Bbq1vDuHKVnoek2qHSzTCVsIAQ-hO5du5xVUDGJ7mMthRR2Q)
