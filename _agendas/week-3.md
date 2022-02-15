@@ -16,6 +16,7 @@ summary:          Cross-platform storytelling critique, Introducing Stories as N
 - [hw2](https://www.dropbox.com/scl/fi/7cps8rhnlvxkj3nflbpsm/hw2.paper?dl=0&rlkey=9j6itokb5v9pro2apdaxrsi94) 
 - Hone your flexbox skills by playing [Flexbox Froggy](https://flexboxfroggy.com).
 
+---
 
 ### Thursday, Studio
 
@@ -28,7 +29,7 @@ summary:          Cross-platform storytelling critique, Introducing Stories as N
 
 ### Homework
 - Sketch out 3 different versions of your selected story to explore the different directions your project could go. With each direction, use different typefaces and explain your reasoning for each. Upload ideas to a new file under your name in Figma before the start of class on Tuesday.
-- Read [Typography and the Screen – Loretta Staples](https://ci.labud.nyc/assets/readings/staples-typography.pdf) and write a [discussion question or comment.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Reading-Reflections--BEfVjTveapO_D1beVPhoQdd5AQ-WRC1vWjkMj6DPWDHQKuTU)
+- Read [Typography and the Screen – Loretta Staples](https://ci.labud.nyc/assets/readings/staples-typography.pdf) and write a [discussion question or comment.](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BaiIPkMqvKsKr~MH8d2IVCvzAQ-xcAaUIV4Syfp3zmAR7IMi)
 - Noor will be our discussion leader!
 
 ---
