@@ -6,6 +6,22 @@ summary:          Stories as Networks, Web Typography, Responsive Design
 
 ---
 
+### Thursday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-S22-CI2-Week-4b--BcFRn7PPqGE3In4rDg_s7q24AQ-pDgDbx9Bos5nj6RwfiZeB)
+- Hear from Leslie about Frank Chimero and we discuss
+- Review typographic activity
+- Typography online
+- Table of contents exercise
+- Project check in
+
+### Homework
+- Finalize your project design in Figma. Include both desktop and mobile screens.
+- Complete the typography exercise (Table of Contents) we started in class for Thursday.
+
+
+---
+
 ### Tuesday, Studio
 
 - Meet in our in person classroom: Parsons 2 W 13th
