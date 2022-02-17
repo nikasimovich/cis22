@@ -16,7 +16,7 @@ summary:          Stories as Networks, Web Typography, Responsive Design
 - Project check in
 
 ### Homework
-- Finalize your project design in Figma. Include both desktop and mobile screens.
+- Finalize your project design in Figma. Begin thinking about how it will adapt to mobile – we will go over ways to think about this on Tuesday.
 - Complete the typography exercise (Table of Contents) we started in class for Thursday.
 
 
