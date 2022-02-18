@@ -6,6 +6,16 @@ summary:          Stories as Networks, Web Typography, Responsive Design
 
 ---
 
+### Friday, Lab
+- Practical uses of the web inspector ;)
+- [Flexbox warmup](https://www.figma.com/file/hE8BLP6BQqo0eAcaCKzK41/CI-Lecture-4-Warmup?node-id=0%3A1)
+- CSS Grid code along: riffing on this [photo essay](https://www.nytimes.com/interactive/2021/04/08/arts/asian-american-photos-love.html?smid=tw-nytimes&smtyp=cur)
+
+### Homework
+- [hw3](https://www.dropbox.com/scl/fi/u8ed2ft2eihjwau3fdul5/hw3-photo-collage-essay.paper?dl=0&rlkey=l1l5b48ujpctqigtyqsie6fkx)
+- Try playing [CSS Grid Garden](https://cssgridgarden.com).
+
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-S22-CI2-Week-4b--BcFRn7PPqGE3In4rDg_s7q24AQ-pDgDbx9Bos5nj6RwfiZeB)
