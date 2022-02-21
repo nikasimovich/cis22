@@ -15,6 +15,7 @@ summary:          Stories as Networks, Web Typography, Responsive Design
 - [hw3](https://www.dropbox.com/scl/fi/u8ed2ft2eihjwau3fdul5/hw3-photo-collage-essay.paper?dl=0&rlkey=l1l5b48ujpctqigtyqsie6fkx)
 - Try playing [CSS Grid Garden](https://cssgridgarden.com).
 
+---
 
 ### Thursday, Studio
 
