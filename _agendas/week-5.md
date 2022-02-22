@@ -17,5 +17,6 @@ summary:          Responsive Design, media queries, project development
 
 ### Homework
 - Based on today&rsquo;s feedback finalize your design and if ready, begin programming it! The project is due 03/08
+- Finish the table of contents exercise and have it online for next class
 
 ---
