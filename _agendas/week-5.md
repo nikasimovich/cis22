@@ -6,6 +6,21 @@ summary:          Responsive Design, media queries, project development
 
 ---
 
+### Thursday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-S22-Table-of-Contents-Show-and-Tell-CSS-Animations-and-SVG-Review--BchnLm37kh6TzGa8WcTpsxhKAQ-OglZPWlUBwZGJY7mwTZbH)
+- Table of Contents Show and tell and commonly occuring issues
+- CSS Animations and SVG review
+- Working on activity and small group check ins
+
+### Homework
+- Begin programming your Stories as Networks project. Have something in the browser for next week.
+- Complete the CSS animation activity for Tuesday.
+
+
+---
+
+
 ### Tuesday, Studio
 
 - Meet in our in person classroom: Parsons 2 W 13th
