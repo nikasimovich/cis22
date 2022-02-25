@@ -6,6 +6,16 @@ summary:          Responsive Design, media queries, project development
 
 ---
 
+### Friday, Lab
+
+- hw2 shoutouts: [Sofia](https://sants632.github.io/exercises/poster/), [Surya](https://pands212.github.io/exercises/poster-in-class/index.html), & [Yuka](https://pands212.github.io/exercises/poster-in-class/index.html).
+- Discussion: [When to use Flexbox vs. CSS Grid?](https://www.youtube.com/watch?v=hs3piaN4b5I&t=86s) 
+- Quick code along: combining flexbox and grid + lazy responsive layouts. Remix [this](https://glitch.com/~ci-responsive-grid).
+
+### Homework
+- [Watch this video](https://www.youtube.com/watch?v=-hmOZU7Zk10) and see if there's any techniques you can add to your project.
+
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-S22-Table-of-Contents-Show-and-Tell-CSS-Animations-and-SVG-Review--BchnLm37kh6TzGa8WcTpsxhKAQ-OglZPWlUBwZGJY7mwTZbH)
