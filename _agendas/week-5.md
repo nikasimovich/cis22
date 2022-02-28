@@ -15,6 +15,8 @@ summary:          Responsive Design, media queries, project development
 ### Homework
 - [Watch this video](https://www.youtube.com/watch?v=-hmOZU7Zk10) and see if there's any techniques you can add to your project.
 
+---
+
 
 ### Thursday, Studio
 
