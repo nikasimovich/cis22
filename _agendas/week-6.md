@@ -6,6 +6,19 @@ summary:          Project development, 3d on the web
 
 ---
 
+### Thursday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-6b-3D-on-the-Web-Continues--Bc_SbvLPmJng08NiyHPv5699AQ-bj6NDwyoMg1mIV9dpt1on)
+- 3D on the web continues
+- Individual meetings and independent work session
+
+### Homework
+- Complete the project for Tuesday
+
+
+---
+
+
 ### Tuesday, Studio
 
 - Meet in our in person classroom: Parsons 2 W 13th
