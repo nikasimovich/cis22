@@ -6,6 +6,17 @@ summary:          Project development, 3d on the web
 
 ---
 
+### Friday, Lab
+
+- hw3 shoutouts: [Shravani](https://bagas557tns.github.io/ci2/activities/grid-work/index2.html), [Andrea](https://andreachang7.github.io/hw3/index.html), & [Zooey](https://daniz053.github.io/exercises/grid-layout/index.html).
+- Working session + small groups and/or individual help
+
+### Homework
+
+- Inspect [this page](https://labs.jensimmons.com/2017/01-003.html) to refresh on different ways to make your grid resize 
+- Good luck with your projects! 
+
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-6b-3D-on-the-Web-Continues--Bc_SbvLPmJng08NiyHPv5699AQ-bj6NDwyoMg1mIV9dpt1on)
