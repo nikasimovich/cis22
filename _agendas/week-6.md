@@ -16,6 +16,7 @@ summary:          Project development, 3d on the web
 - Inspect [this page](https://labs.jensimmons.com/2017/01-003.html) to refresh on different ways to make your grid resize 
 - Good luck with your projects! 
 
+---
 
 ### Thursday, Studio
 
