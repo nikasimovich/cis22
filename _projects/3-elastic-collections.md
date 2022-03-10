@@ -51,6 +51,15 @@ Does the arrangement of elements or the grid change? Does the site’s navigatio
 - Site favicon
 - Must be responsive and function on a mobile screen
 
+### Student Examples
+
+- [Julia D.](https://juliaduf.github.io/HandsArchive/HAHome.html)
+- [Jillian R.](https://reesj730.github.io/elastic-collection/)
+- [Whitley D.](https://darbw698.github.io/whitley-darby-elastic-collection-project-3/index.html)
+- [Luna C.](https://martc626.github.io/elastic-collections/)
+- [Yuka K.](https://kamay457.github.io/erasticcollection_homepage/)
+- [Michelle K](https://kimm625.github.io/elastic-collection-julia/index.html)
+
 
 ### Schedule (Week 7–12)
 
