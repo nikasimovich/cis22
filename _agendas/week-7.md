@@ -6,6 +6,16 @@ summary:          Stories as Networks Critique, Elastic Collections
 
 ---
 
+### Friday, Lab
+
+- [Mid-semester survey](https://forms.gle/jKq8mX31LfqUEwKH7)
+- Javascript overview
+- Code along: [dark mode](https://glitch.com/~ci-js-intro)
+
+### Homework
+
+- [hw4](https://www.dropbox.com/scl/fi/i659ks2ixfpibw58iyl9n/hw4-modes-choose-your-own-tutorial.paper?dl=0&rlkey=6wt5upx1ozb78fozx0w6i9fwb)
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Week-7b-Critique-Continues-Introducing-Elastic-Collections--Bdb4HFBjdovgwDVnkYNEURrGAQ-lkrms3x7JRKshxnq44qiP)
