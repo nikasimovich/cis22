@@ -29,7 +29,7 @@ summary:          Stories as Networks Critique, Elastic Collections
 
 ### Homework
 - For Tuesday: Watch [Dynamic Use of Data](https://vimeo.com/showcase/8025633/video/518366983)
-- For Tuesday: Read [Sharing as Survival: Mindy Seu on the Cyberfeminism Index](https://walkerart.org/magazine/sharing-as-survival-mindy-seu-cyberfeminism-index) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S21-Reading-Reflections--BGFxSujZERHAyltTjrINE8N0AQ-WRC1vWjkMj6DPWDHQKuTU). Sofia and Surya will be our discussion leaders for both.
+- For Tuesday: Read [Sharing as Survival: Mindy Seu on the Cyberfeminism Index](https://walkerart.org/magazine/sharing-as-survival-mindy-seu-cyberfeminism-index) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BbijzYVKqjMLwKGisVu2d~FfAQ-xcAaUIV4Syfp3zmAR7IMi). Sofia and Surya will be our discussion leaders for both.
 - For Tuesday&rsquo;s Class: Come in with three different ideas for the contents of your [elastic collection](../projects/3-elastic-collections). The content can be any type of media – photos, videos, animations, audio. For each idea, include a a written description of the contents, highlight your interest in it, three possible stories one could develop from this collection (does it connect to any broader discussions in visual culture, design, or beyond?), as well as an example of the visual component of the object. This can be done in Figma, in Google Slides, or a PDF.
 - For Thursday: Complete your 3D on the web exercise 
 
