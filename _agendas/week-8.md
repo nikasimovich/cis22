@@ -22,5 +22,6 @@ summary:          Elastic Collections development, Documenting Interactive Work,
 - Complete your 3d on the web activity for Thursday
 - Watch [Balancing Privacy With Data Sharing for the Public Good](https://vimeo.com/showcase/8025633/video/518426783)
 - Read [Chapter 2 from Data Feminism – Catherine D'Ignazio and Lauren Klein](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2?readingCollection=0cd867ef) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BbijzYVKqjMLwKGisVu2d~FfAQ-xcAaUIV4Syfp3zmAR7IMi). Alexander and Zoey will be our discussion leaders, presenting on both the lecture and the reading.
+- Based on your feedback, refine your content idea and outline all the data types you can build out from your collection.
 
 ---
