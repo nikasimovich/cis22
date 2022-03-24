@@ -6,6 +6,23 @@ summary:          Elastic Collections development, Documenting Interactive Work,
 
 ---
 
+### Thursday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8b-Elastic-Collections-Ideas-Documenting-Interactive-Work--BeQcT4OZgXTuaejACWMTpZfxAQ-NKtvmzOmHkigcL8bZ89oi)
+- Hear from Alexander and Zoey about Data Feminism and Balancing Privacy with Data Sharing for the Public Good and we discuss
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8b-Elastic-Collections-Ideas-Documenting-Interactive-Work--BeQcT4OZgXTuaejACWMTpZfxAQ-NKtvmzOmHkigcL8bZ89oi)
+- 3d on the web show and tell
+- Hear Olivia&rsquo;s project ideas
+- Documenting work online notes, demo, and activity
+- Time permitting: watch two lectures
+
+
+### Homework
+- Begin collecting your data. You should have all of it collected by next Thursday.
+- Finish your Documenting and Presenting Interactive Work partner activity and submit on Canvas
+- Read [The Hidden Life of an Amazon User – Joana Moll](https://branch.climateaction.tech/2020/09/25/the-hidden-life-of-an-amazon-user/) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BbijzYVKqjMLwKGisVu2d~FfAQ-xcAaUIV4Syfp3zmAR7IMi) Shravani will be our discussion leader.
+---
+
 
 ### Tuesday, Studio
 
