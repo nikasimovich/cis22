@@ -21,6 +21,7 @@ summary:          Elastic Collections development, Documenting Interactive Work,
 - Begin collecting your data. You should have all of it collected by next Thursday.
 - Finish your Documenting and Presenting Interactive Work partner activity and submit on Canvas
 - Read [The Hidden Life of an Amazon User – Joana Moll](https://branch.climateaction.tech/2020/09/25/the-hidden-life-of-an-amazon-user/) and write a [discussion question](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BbijzYVKqjMLwKGisVu2d~FfAQ-xcAaUIV4Syfp3zmAR7IMi) Shravani will be our discussion leader.
+
 ---
 
 

@@ -16,6 +16,8 @@ summary:          Stories as Networks Critique, Elastic Collections
 
 - [hw4](https://www.dropbox.com/scl/fi/i659ks2ixfpibw58iyl9n/hw4-modes-choose-your-own-tutorial.paper?dl=0&rlkey=6wt5upx1ozb78fozx0w6i9fwb)
 
+---
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Week-7b-Critique-Continues-Introducing-Elastic-Collections--Bdb4HFBjdovgwDVnkYNEURrGAQ-lkrms3x7JRKshxnq44qiP)
