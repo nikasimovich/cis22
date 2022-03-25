@@ -6,6 +6,15 @@ summary:          Elastic Collections development, Documenting Interactive Work,
 
 ---
 
+### Friday, Lab
+- Working with data: arrays, objects, loops
+- Sourcing data: APIs, [Airtable example](https://airtable.com/invite/l?inviteId=inv7MgFYyte4unjzP&inviteToken=dddbb84f8a33361574d3adc05799770906e27445147cf1fad271b12b0726cc2c&utm_source=email), [fetch](https://levelup.gitconnected.com/all-possible-ways-of-making-an-api-call-in-plain-javascript-c0dee3c11b8b)
+- Code along: [Glitch](https://glitch.com/edit/#!/ci-api-intro)
+
+### Homework
+- [hw5](https://www.dropbox.com/scl/fi/nkqd6c2q4mkb6q9slj35u/hw5-fake-data.paper?dl=0&rlkey=swxvsj0t3awe8briydfzxj9hh)
+
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8b-Elastic-Collections-Ideas-Documenting-Interactive-Work--BeQcT4OZgXTuaejACWMTpZfxAQ-NKtvmzOmHkigcL8bZ89oi)
