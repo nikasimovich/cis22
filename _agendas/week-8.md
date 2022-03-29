@@ -15,6 +15,9 @@ summary:          Elastic Collections development, Documenting Interactive Work,
 - [hw5](https://www.dropbox.com/scl/fi/nkqd6c2q4mkb6q9slj35u/hw5-fake-data.paper?dl=0&rlkey=swxvsj0t3awe8briydfzxj9hh)
 
 
+---
+
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-8b-Elastic-Collections-Ideas-Documenting-Interactive-Work--BeQcT4OZgXTuaejACWMTpZfxAQ-NKtvmzOmHkigcL8bZ89oi)
