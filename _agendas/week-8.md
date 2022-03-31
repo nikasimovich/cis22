@@ -2,7 +2,7 @@
 title:            Week 8
 start_date:       2021-01-19 00:00:00 -0500
 date_range:       3/22 – 3/25
-summary:          Elastic Collections development, Documenting Interactive Work, Midterm Evaluations
+summary:          Elastic Collections development, Documenting Interactive Work
 
 ---
 

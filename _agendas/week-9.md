@@ -6,6 +6,20 @@ summary:          Web sustainability, javascript review, javascript libraries, m
 
 ---
 
+### Thursday, Studio
+
+- [Zoom link](https://newschool.zoom.us/my/nikafisher)
+- [Today&rsquo;s Notes and Midterm Meetings Order](https://paper.dropbox.com/doc/Parsons-Core-Interaction-2-Midterm-Meetings--BesAB0lZzbrDzc4cvgIiEFt5AQ-pzTZXFAYNd7JoZ3G07vuQ)
+
+
+
+### Homework
+- Based on today’s meeting, finetune your collection. Make any necessary adjustments to the content so that it feels consistent and clear. Include language (headings, titles) to your advantage to help streamline the experience. Make sure everything is saved properly and is easily accessible to someone else. Submit the Airtable URL by the end of the day today
+- Create one gestural sketch in Figma of your collection and how you would go about designing it. We will swap collections next week, but for now test out how your design might look based on your data collection process.
+
+
+---
+
 ### Tuesday, Studio
 
 - Hear from Shravani about [The Hidden Life of an Amazon User – Joana Moll](https://branch.climateaction.tech/2020/09/25/the-hidden-life-of-an-amazon-user/) and we [discuss](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BbijzYVKqjMLwKGisVu2d~FfAQ-xcAaUIV4Syfp3zmAR7IMi) 
