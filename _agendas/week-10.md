@@ -6,6 +6,29 @@ summary:          Elastic collections continuation, JavaScript libraries
 
 ---
 
+### Thursday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-10b-Design-Concept-Process-P5.JS-Continues--BfIYnTREIGCD9JeLvcrjR4axAQ-GcWHlI1Fs3vc9dvs4O2gA)
+- Design presentation process, look at examples from Nika&rsquo;s work
+- p5.js
+
+
+
+### Homework
+- For Tuesday: Develop and refine a wireframe for your website.
+Present two completely different design concepts for your project. Each direction should include:
+
+- A written description of the concept – what is this about? what are you referencing?
+- A visual depiction of your research – can feel like a “mood board”
+- The homepage design using a unique and specific set of typography and stylistic choices that bring the design concept to life.
+- The two directions should house the same content overall (some variation OK) but should tell two completely different visual stories. While distinct, they should both be appropriate choices for the project.
+
+- For Thursday: Complete your p5.js sketch
+
+
+---
+
+
 ### Tuesday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-10a-Collections-Study-Elastic-Collections-Hand-Off--BfBAO0HOUy0uiDxleWsxYM2CAQ-L8WHXcJnmKKlRRGDdYdpj)
