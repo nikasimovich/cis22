@@ -10,6 +10,8 @@ summary:          Elastic collections continuation, JavaScript libraries
 - In class activity: [working with scroll data](https://www.dropbox.com/scl/fi/rvg5aumdjq9qdv9r9foyj/Exercise-Scroll-data.paper?dl=0&rlkey=8cxgpipxbcq3en0q47ykl14sl)
 - Open time for working on your projects and asking questions.
 
+---
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-10b-Design-Concept-Process-P5.JS-Continues--BfIYnTREIGCD9JeLvcrjR4axAQ-GcWHlI1Fs3vc9dvs4O2gA)

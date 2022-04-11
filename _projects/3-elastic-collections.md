@@ -69,5 +69,8 @@ Does the arrangement of elements or the grid change? Does the site’s navigatio
 - 03/31 Review: Implementation.
 - 04/05 Review: Implementation.
 - 04/07 Review: Implementation.
-- 04/12 Review: Implementation.
-- 04/14. Final Review: Project 3.
+- 04/12 Review: Implementation. Final designs in Figma
+- 04/14.Review: Implementation. Programming
+- 04/19 Review: Implementation. Programming
+- 04/21 Review: Implementation. Programming
+- 04/26 Final review. 
