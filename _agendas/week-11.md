@@ -7,6 +7,20 @@ summary:          Elastic collections continuation, JavaScript libraries
 ---
 
 
+### Thursday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-11b-Elastic-Collections-Continue-JavaScript-Objects--BfmzwAVO9vRW315lYMBwCykXAQ-pI7xXvmOmZz7tdi70nn6Y)
+- p5.js show and tell
+- JavaScript objects and in-class activity
+- Check in about Elastic Collections
+
+
+### Homework
+- Complete your display data in class activity
+- Refine and finalize your Elastic Collections design; begin programming
+
+---
+
 ### Tuesday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-11a-Elastic-Collections-Continue--BfdGcjKMaCz4~nJqMfgAveCfAQ-FT3wjxT8szaUnmfpAEcEa)
