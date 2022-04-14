@@ -7,6 +7,9 @@ summary:          Elastic collections continuation, JavaScript libraries
 ---
 
 
+### Friday, Lab
+- Elastic Collections working session
+
 ### Thursday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-11b-Elastic-Collections-Continue-JavaScript-Objects--BfmzwAVO9vRW315lYMBwCykXAQ-pI7xXvmOmZz7tdi70nn6Y)
