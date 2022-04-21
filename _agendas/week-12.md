@@ -6,6 +6,23 @@ summary:          Elastic collections continuation, JavaScript libraries
 
 ---
 
+
+### Thursday, Studio
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Core-Interaction-Week-12b--BgASduREYcUd3O8m1EBJbG9rAQ-5fPDyS2j70kZYVbhUlWRZ)
+- Hear from Yuka about exclusive design
+- Web accessibility resources
+- Airtable examples
+- Elastic Collection work period
+
+
+### Homework
+- Elastic Collections critique is next week, some of you will go on Tuesday, some of you will go on Thursday. No guest critic, but we will have one for the final class, where you can choose one project to present. More info soon!
+
+
+---
+
+
 ### Tuesday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-12a-Elastic-Collections-Continue--Bf47zS4cuZNwCdTFOqYkQ2oXAQ-KIooi5jzd1lk7wrPf7BMW)
