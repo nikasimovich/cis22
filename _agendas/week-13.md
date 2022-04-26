@@ -13,7 +13,7 @@ summary:          Elastic collections critique, Input Output Intro
 
 ### Homework
 - Continue refining your Elastic Collection if necessary
-- Listen to the [Human-Centered Design lecture](https://vimeo.com/showcase/8025633/video/533669836) and read [Glitching the Master’s House: Legacy Russell and Momtaza Mehri in Conversation](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BbijzYVKqjMLwKGisVu2d~FfAQ-xcAaUIV4Syfp3zmAR7IMi).
+- Listen to the [Human-Centered Design lecture](https://vimeo.com/showcase/8025633/video/533669836) and read [Glitching the Master’s House: Legacy Russell and Momtaza Mehri in Conversation](https://www.frieze.com/article/glitching-masters-house-legacy-russell-and-momtaza-mehri-conversation) and everyone else [responds](https://paper.dropbox.com/doc/Parsons-Core-Interaction-S22-Reading-Reflections--BbijzYVKqjMLwKGisVu2d~FfAQ-xcAaUIV4Syfp3zmAR7IMi).
 - Victoria and Rachel will be our discussion leaders
 
 ---
