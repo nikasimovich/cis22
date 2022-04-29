@@ -5,6 +5,10 @@ date_range:       4/26 – 4/29
 summary:          Elastic collections critique, Input Output Intro
 ---
 
+### Friday, Lab
+- [Lecture](https://seancaat.notion.site/Randomness-6db07cbe66b2487fa4de26b4e919daf2): using randomness as a design tool.
+- [hw6](https://www.dropbox.com/scl/fi/fhy6my6dwbu3y3ur0rcfj/hw6---randomness.paper?dl=0&rlkey=vsi3ohe8qzrqnggtw6l849odd)
+
 
 ### Thursday, Studio
 
