@@ -6,6 +6,18 @@ summary:          Input output continuation
 ---
 
 
+### Thursday, Studio 
+
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-14b-Work-Session-and-Question-and-Answers--Bg7p~Zs8nGyA1avajWyz9CM1AQ-uyD7I6rdpnnOr5FEbeI4L)
+- [Zoom link](https://newschool.zoom.us/my/nikafisher)
+- Watch the demo video and code along
+- Sign up for an individual Zoom meeting if we did not meet on Tuesday
+
+### Homework
+- Revise your design and create the most basic iteration of it as a coded prototype (online)
+
+
+
 ### Tuesday, Studio
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-14a-Input-Output--BgzG0amrp~JUAtLSSWz9JJq_AQ-9aDL5tZ85m1fQlcyWS5RL)
