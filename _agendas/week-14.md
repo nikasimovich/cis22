@@ -5,6 +5,10 @@ date_range:       5/2 – 5/6
 summary:          Input output continuation
 ---
 
+### Friday, Lab
+- Randomness homework show n tell + discussion
+- Work session for studio project
+
 
 ### Thursday, Studio 
 
