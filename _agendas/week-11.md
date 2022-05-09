@@ -15,7 +15,7 @@ summary:          Elastic collections continuation, JavaScript libraries
 
 ### Thursday, Studio
 
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-11b-Elastic-Collections-Continue-JavaScript-Objects--BfmzwAVO9vRW315lYMBwCykXAQ-pI7xXvmOmZz7tdi70nn6Y)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-15a-Work-Session-and-Individual-Sessions--BhIYvV6W4newv3aBnUYEtHBDAQ-3dYHOSDCzdamMWBXCMzOg)
 - p5.js show and tell
 - JavaScript objects and in-class activity
 - Check in about Elastic Collections
