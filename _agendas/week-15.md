@@ -6,8 +6,18 @@ summary:          Input output development and final critique
 ---
 
 
+### Thursday, Studio 
 
-### Thursday, Studio Online
+- [Today&rsquo;s Notes and Critique Info](https://paper.dropbox.com/doc/Final-Critique--BhWEUcRNobOYcVTbI4HArChRAQ-0scX0PkSXBFNp63x4TtGu)
+- [Zoom link](https://newschool.zoom.us/my/nikafisher)
+- Final critique with guest critic, [Natasha Villarraga](https://www.natashavillarraga.com/web)
+
+### Homework
+- Have a great summer!
+
+---
+
+### Tuesday, Studio Online
 
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-Week-15a-Work-Session-and-Individual-Check-Ins--BhIYvV6W4newv3aBnUYEtHBDAQ-3dYHOSDCzdamMWBXCMzOg)
 - [Zoom link](https://newschool.zoom.us/my/nikafisher)
