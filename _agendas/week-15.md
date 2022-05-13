@@ -5,6 +5,10 @@ date_range:       5/10 – 5/13
 summary:          Input output development and final critique
 ---
 
+### Friday, Lab 
+- Please complete course evaluation (check your email).
+- Some parting thoughts on coding
+- Open time for chatting about grades, debugging help for Studio project resubmissions, etc.
 
 ### Thursday, Studio 
 
