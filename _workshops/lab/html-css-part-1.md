@@ -1,7 +1,7 @@
 ---
 title:            HTML & CSS Intro
 subtitle:         An introduction to semantic markup and Cascading Style Sheets
-lecture_date:     2022-01-28 00:00:00 -0500
+lecture_date:     2023-01-28 00:00:00 -0500
 section:          Lab
 ---
 

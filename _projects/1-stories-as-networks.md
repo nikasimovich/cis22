@@ -1,6 +1,6 @@
 ---
 title:            Stories as Networks
-index:            2
+index:            1
 
 ---
 
@@ -32,12 +32,28 @@ Scale of the Page: What happens to your site when the browser window is resized?
 
 Do not try to illustrate the text. The least successful projects are ones that try to visualize the text literally.
 
-### Schedule (Week 3–7)
-- 02/10 Discuss: Lecture + reading. Introduce: Project 2. Assign: Ideas.
-- 02/15 Review (1-9): Idea. Assign: Iteration
-- 02/17 Review (10–18): Idea. Assign: Iteration
-- 02/22 Review (1-9): Iteration. Assign: Implementation.
-- 02/24 Review(10-18): Iteration. Assign: Implementation.
-- 03/01 Review: Implementation
-- 03/03. Review: Implementation
-- 03/08 Project critique
+### Due
+- 02/21
+
+### Student Examples
+
+- [In Praise of Shadows, Zoey](https://daniz053.github.io/projects/stories-as-network/index.html)
+- [Library of Babel, Shravani](https://bagas557tns.github.io/ci2/stories-networks/index.html)
+- [On Beginnings, Alex](https://alexsoukakos.github.io/alexandersoukakos.github.io/onbeginnings/index.html)
+- [In Praise of Shadows, Andrea](https://andreachang7.github.io/1-shadows-proj/index.html)
+- [On Beginnings, Sofia](https://sants632.github.io/projects/stories-as-networks/index.html)
+- [In Praise of Shadows, Surya](https://pands212.github.io/projects/stories-as-networks/index.html)
+- [On Punctuation, Victoria](https://victoriagwinter.github.io/wintv133/story-as-networks/index.html)
+- [Library of Babel, Jillian](https://reesj730.github.io/stories-as-networks/)
+- [On Beginnings, Whitley](https://darbw698.github.io/whitley_darby_stories_as_network_project_2/index.html)
+- [Go With the Flow, Eleanor](https://zhouq743.github.io/studio-project-2/part7/combine.html)
+- [Go With the Flow, Aria](https://zhouq743.github.io/studio-project-2/part7/combine.html)
+- [Library of Babel, Ashley](https://ashleylfletch.github.io/studio-2021/project-2/index.html)
+- [On Beginnings, Christine](https://jooc749.github.io/Project2%20/)
+- [On Beginnings, Alice](https://kims327.github.io/Studio/2nd%20project/index.html)
+- [In Praise of Shadows, Val](https://valyanggy.github.io/in-praise-of-shadows/)
+- [In Praise of Shadows, Zoe](https://zzmlk.github.io/webtypography/)
+- [Library of Babel, Alex](https://alexanderlavertue.github.io/shortstorywebsite/)
+- [Library of Babel, Chris](https://chrispanicker.github.io/library_of_babel/index2.html)
+- [On Punctuation, Chichi](https://zhaox349.github.io/Story-as-networks/index.html)
+
